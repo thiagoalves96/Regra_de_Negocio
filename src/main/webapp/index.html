@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Exemplo CRUD</title>
+</head>
+<body>
+
+<h1>Adicionar ou Editar Funcionário</h1>
+<form action="SaveServlet" method="post">
+    <!-- Adicione um campo oculto para idusuario -->
+    <input type="hidden" name="idusuario" value="<%= idUsuarioDoRegistro %>">
+
+    <table>
+        <tr><td>Nome:</td><td><input type="text" name="nome"/></td></tr>
+        <tr><td>Senha:</td><td><input type="password" name="senha"/></td></tr>
+        <tr><td>Email:</td><td><input type="email" name="email"/></td></tr>
+        <tr><td>Pais:</td><td>
+            <select name="pais" style="width:150px">
+                <option>Brasil</option>
+                <option>Argentina</option>
+                <option>Chile</option>
+                <option>Outro</option>
+            </select>
+        </td></tr>
+        <tr><td colspan="2"><input type="submit" value="Salvar Funcionário"/></td></tr>
+    </table>
+</form>
+
+<br/>
+<a href="ViewServlet">Visualizar Funcionários</a>
+
+</body>
+</html>
