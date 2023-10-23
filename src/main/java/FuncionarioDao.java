@@ -18,7 +18,7 @@ public class FuncionarioDao {
 		Connection con = null;
 		try {
 			Class.forName("com.mysql.cj.jdbc.Driver");
-			con = DriverManager.getConnection("jdbc:mysql://localhost:3306/crud_exemplo", "root", "Thiag@38580828");
+			con = DriverManager.getConnection("jdbc:mysql://localhost:3306/crud_exemplo", "root","root");
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
