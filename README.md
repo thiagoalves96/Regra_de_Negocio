@@ -78,23 +78,34 @@ Essas classes e arquivos desempenham funções específicas na aplicação web d
 Aqui estão algumas capturas de tela da aplicação em execução:
 
 1. **Tela de Cadastro**:
-   ![Tela de Cadastro](caminho_da_imagem1.png)
+   
+ <img width="501" alt="Captura de Tela 2023-11-01 às 19 10 12" src="https://github.com/thiagoalves96/Regra_de_Negocio/assets/122239577/a1d1705e-3d73-49ae-8a69-6c2237a29c51">
+ 
    Descrição: Esta captura de tela mostra a tela de cadastro, onde você pode adicionar informações de um novo funcionário.
 
-2. **Cadastro com Sucesso**:
-   ![Cadastro com Sucesso](caminho_da_imagem2.png)
+3. **Cadastro com Sucesso**:
+   
+   <img width="504" alt="Captura 2" src="https://github.com/thiagoalves96/Regra_de_Negocio/assets/122239577/22552ba8-ffc6-4a4b-9049-c2c4a3baffaf">
+   
    Descrição: Nesta captura de tela, você pode ver a confirmação de que o cadastro foi bem-sucedido.
 
-3. **Editar Funcionário**:
-   ![Editar Funcionário](caminho_da_imagem3.png)
+5. **Editar Funcionário**:
+6. 
+   <img width="1321" alt="captura3-editar" src="https://github.com/thiagoalves96/Regra_de_Negocio/assets/122239577/7c25b28e-0091-42cb-a87f-514ef703079a">
+   <img width="502" alt="editado-ok" src="https://github.com/thiagoalves96/Regra_de_Negocio/assets/122239577/58469e4a-6cfb-44d4-81f7-19892caf084c">
+
    Descrição: Aqui, você pode ver a tela de edição, onde é possível modificar as informações de um funcionário existente.
 
 4. **Funcionário Editado**:
-   ![Funcionário Editado](caminho_da_imagem4.png)
+   
+<img width="1325" alt="editado-vermelhodelete" src="https://github.com/thiagoalves96/Regra_de_Negocio/assets/122239577/84009f98-5c90-4c7b-8467-7ba3e4b684a0">
+
    Descrição: Esta captura de tela mostra a confirmação de que o funcionário foi editado com sucesso.
 
-5. **Excluir Funcionário**:
-   ![Excluir Funcionário](caminho_da_imagem5.png)
+6. **Excluir Funcionário**:
+
+   <img width="1319" alt="deletado" src="https://github.com/thiagoalves96/Regra_de_Negocio/assets/122239577/04bc44db-8ddc-49a5-831a-2adee9c41622">
+
    Descrição: Aqui, você pode ver a tela de exclusão, onde é possível remover um funcionário do banco de dados.
    
 ## Contribuições
